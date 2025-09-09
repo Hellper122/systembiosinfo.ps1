@@ -44,5 +44,5 @@ systembiosinfo — это скрипт, который:
 
 ---
 
-Автор: Ваше имя  
+Автор: Hellper_12
 Лицензия: MIT License
